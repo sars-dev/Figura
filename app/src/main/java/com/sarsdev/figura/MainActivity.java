@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
             //Trapecio
             Path path2 = new Path();
             Paint paint4 = new Paint();
-            paint4.setColor(Color.parseColor("#E68620"));
+            paint4.setColor(Color.parseColor("#A06186"));
 
             path2.lineTo(1000, 200);
             path2.lineTo(1150, 200);
